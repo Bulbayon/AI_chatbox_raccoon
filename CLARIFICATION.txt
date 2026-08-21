@@ -1,0 +1,3 @@
+As someone who is learning how to code, It's best for me to understand both the theory, and application of how AI is made.
+Therefore, as someone who's very new to these whole ordeal, I figured it would be best to apply AI to my studies.
+I made this python code and HTML code using AI, but I am also figuring it out on how all the codes actually connect.
