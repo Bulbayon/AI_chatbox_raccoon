@@ -1,0 +1,13 @@
+On your terminal, you may first;
+
+$pip install google-genai fastapi uvicorn
+
+After having it downloaded;
+
+$uvicorn main:app --reload
+
+Search in your search bar (on chrome, edge, firefox, etc.);
+
+http://localhost:8000/
+
+{localhost => it only exists in your computer locally, therefore other people can't see it if they are using a different device}
